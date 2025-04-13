@@ -30,7 +30,7 @@ Welcome to **Sim**, an open-source Android app that helps you migrate your watch
 3. Build and run the app on your Android device/emulator.
 
 ## License 📝
-Sim is licensed under the [MIT License](LICENSE).
+Sim is licensed under the [GPL-3.0 License](LICENSE).
 
 ## Contributing 🤝
 We welcome contributions! If you'd like to help improve **Sim**, feel free to fork the repository and submit a pull request. Please ensure your code follows the existing style and includes tests where applicable.
