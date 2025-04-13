@@ -44,5 +44,6 @@ For any issues or inquiries, please reach out to us at josephhoumabackup@gmail.c
 
 ---
 
-⚡ **Note**: The code will be released soon! Stay tuned for updates. 🔜
+⚡ **Notes**: The code will be released soon! Stay tuned for updates. 🔜
+the app has a limit of 1000 request per day
 maybe a playstore release?
