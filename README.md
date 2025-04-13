@@ -12,7 +12,7 @@ Welcome to **Sim**, an open-source Android app that helps you migrate your watch
 
 ## How to Use 📥
 
-1. **Install the app** 📲: Download Sim from the Google Play Store or install via APK.
+1. **Install the app** 📲: Download Sim from the releases tab or install via APK.
 2. **Link your Simkl Account** 🔑: Open the app, sign in with your Simkl account, and grant the necessary permissions.
 3. **Export your Data** 💾: Choose your desired watchlists (watched, dropped, etc.) and hit the **Export** button to save your CSV file to your Downloads folder.
 4. **Import to Another Service** 🔄: Use the CSV file to migrate your watch history to another service that supports CSV uploads.
@@ -24,7 +24,7 @@ Welcome to **Sim**, an open-source Android app that helps you migrate your watch
 ## Installation 🔧
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Sim.git
+    git clone https://github.com/josephhouma/Sim.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device/emulator.
@@ -40,8 +40,9 @@ We welcome contributions! If you'd like to help improve **Sim**, feel free to fo
 - All contributors who have helped make this app better!
 
 ## Contact 📬
-For any issues or inquiries, please reach out to us at [your-email@example.com].
+For any issues or inquiries, please reach out to us at josephhoumabackup@gmail.com
 
 ---
 
 ⚡ **Note**: The code will be released soon! Stay tuned for updates. 🔜
+maybe a playstore release?
