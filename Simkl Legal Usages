@@ -1,0 +1,16 @@
+After reviewing Simkl's Terms of Service and Privacy Policy, the Sim app appears to comply with their guidelines, provided certain conditions are met:
+
+1. Authorized Use of Simkl Data: Simkl allows users to export their personal data using their free API. According to their Privacy Policy, users can "export your own data using free API https://api.simkl.com or backup tools at https://simkl.com/apps/backup/ like automated backups to your email." This suggests that extracting user-specific data, such as watch history, is permissible.
+
+
+2. Compliance with Simkl's Terms: Simkl's Terms of Service specify that users should not access their services through automated means unless specifically allowed. The relevant clause states: "You agree not to access (or attempt to access) any of the Services by any means other than through the interface that is provided by Simkl, unless you have been specifically allowed to do so in a separate agreement with Simkl." While this pertains to Simkl's services, it implies that automated data extraction is acceptable if authorized.
+
+
+3. User Consent and Data Handling: It's essential to ensure that users provide explicit consent for the app to access and export their data. The Privacy Policy emphasizes that Simkl requires partners to have "lawful rights to collect, use and share your data before providing any data to us." Therefore, obtaining user consent aligns with Simkl's data handling practices.
+
+
+4. Avoiding Web Scraping: While not directly related to your app's functionality, it's worth noting that Simkl discourages web scraping, as it can violate their terms and lead to account suspension. Their Terms of Service state: "You agree not to access (or attempt to access) any of the Services through any automated means (including use of scripts or web crawlers) and shall ensure that you comply with the instructions set out in any robots.txt file present on the Services." Since your app utilizes Simkl's official API, this should not be a concern.
+
+
+
+Conclusion: The Sim app is not illegal, provided it operates within the boundaries set by Simkl's Terms of Service and Privacy Policy. Key considerations include obtaining user consent for data access, adhering to any rate limits or usage guidelines set by Simkl, and ensuring that the app does not engage in prohibited activities such as unauthorized data scraping. It's also advisable to stay updated with Simkl's policies and any changes they may implement.
